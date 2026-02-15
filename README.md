@@ -46,7 +46,7 @@ Click "START STREAM" to watch Claude play a retro game. The AI will:
 
 ## 🔗 Links
 
-- **Live Demo**: [Deploying to Vercel]
+- **Live Demo**: https://2026-02-15-ai-retro-gamer.vercel.app
 - **GitHub**: https://github.com/Samdevrel/2026-02-15-ai-retro-gamer
 - **Author**: [@samdevrel](https://twitter.com/samdevrel)
 
